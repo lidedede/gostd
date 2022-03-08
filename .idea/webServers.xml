@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fbdbcdeb-7108-4dbc-a413-84a8184ae5b7" name="devcloud">
+        <fileTransfer accessType="SFTP" port="22" sshConfigId="eed9c664-2c10-4e13-91b5-607b430291b8" sshConfig="devcloud">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

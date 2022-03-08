@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" id="eed9c664-2c10-4e13-91b5-607b430291b8" port="22" customName="devcloud" nameFormat="CUSTOM">
+        <option name="customName" value="devcloud" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
